@@ -75,6 +75,6 @@ https://www.youtube.com/watch?v=Teu9MsIlIt4
 
 - [@Aamax-Lee](https://github.com/Aamax-Lee)
 
-- [@Tai Peng](https://github.com/LeeTP03)
+- [@Akira Sato]([https://github.com/LeeTP03](https://github.com/ak1ra14))
 
 - [@Nelson](https://github.com/NelsonTan02)
